@@ -1,8 +1,8 @@
 # SparkTheDefinitiveGuideBook
 Book study for "Spark: The definitive guide" by Bill Chambers, Matei Zaharia
 
-This is my work for the book. Authors provided pyspark notebooks in the following repo: 
+This is my work for the book. Authors provided pyspark notebooks in the following repository: 
 
 [https://github.com/databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
 
-Some of notebooks miss lines which are given in the book, so I've added them with some comments. Plus I . 
+Some of notebooks miss lines which are provided in the book, so I've added them. In a few places in the book and in the repository we can see code for Python 2 while I use Python 3. I changed everything to Python 3.  Plus I added some more code lines when I wanted to learn more about an example. 
