@@ -1,4 +1,4 @@
-# SparkTheDefinitiveGuideBook
+# "Spark: The Definitive Guide" Book Study
 Book study for "Spark: The definitive guide" by Bill Chambers, Matei Zaharia
 
 This is my practice for the book. Authors provided pyspark notebooks in the following repository: 
