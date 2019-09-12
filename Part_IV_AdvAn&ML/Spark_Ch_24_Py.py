@@ -16,7 +16,7 @@ print(sparseVec)
 
 # COMMAND ----------
 
-df = spark.read.json("/FileStore/tables/part_r_00000_f5c243b9_a015_4a3b_a4a8_eca00f80f04c-a8b89.json")
+df = spark.read.json("/databricks-datasets/definitive-guide/data/simple-ml")
 df.orderBy("value2").show()
 
 # COMMAND ----------
