@@ -7,4 +7,6 @@ Here is a link for Chapter 25 with comments: https://databricks-prod-cloudfront.
 
 Here is a link for Chapter 26 with comments: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3156752002222564/3656028678616717/6520470320784699/latest.html
 
-Other chapters code is the same as in the book. Unfortunetely a few lines do not work as they are supposed to.
+Other chapters code is the same as in the book. They still mostly Python 2. I was not able to run code from Chapter 31 because I got an error message, which seems to be a sign that my alloted memory does not suffices. 
+
+On request I provided my work with a PySpark Classification Pipeline: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3156752002222564/3958486364206411/6520470320784699/latest.html
