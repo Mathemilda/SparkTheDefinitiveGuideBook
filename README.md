@@ -10,3 +10,5 @@ Some of notebooks missed lines which are provided in STDG, so I've added them. I
 Datasets which were used in the book are mounted to the Databricks File System:
 https://docs.databricks.com/getting-started/databricks-datasets.html
 They could be accessed directly from a databrick notebook.
+
+I found an interesting text: "Things I Wish I'd Known About Spark When I Started (One Year Later Edition)" and decided to keep a link to it here: https://www.enigma.com/blog/things-i-wish-id-known-about-spark
