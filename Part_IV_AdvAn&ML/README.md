@@ -1,12 +1,12 @@
 This folder contains notebooks for Part IV, Advanced Analytics and Machine Learning. The book "Spark: The definitive guide" is abbreviated as STDG.
 Regretfully notebook displays are distorted here. I provided links to my databrics notebooks in a hope that they will look better there.
-Here is a link for Chapter 24 with comments: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3156752002222564/967524416478808/6520470320784699/latest.html
+Here is a link for Chapter 24 with comments: https://bit.ly/35Xpgyi
  It should stay public for a half of year from Sept, 12, 2019.
 
-Here is a link for Chapter 25 with comments: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3156752002222564/1295341335623841/6520470320784699/latest.html and it will stay public for a half of year from Sept 12, 2019.
+Here is a link for Chapter 25 with comments: https://bit.ly/2MZoRme and it will stay public for a half of year from Sept 12, 2019.
 
-Here is a link for Chapter 26 with comments: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3156752002222564/3656028678616717/6520470320784699/latest.html
+Here is a link for Chapter 26 with comments: https://bit.ly/2p12DrV
 
-Other chapters code is the same as in the book. They still mostly Python 2. I was not able to run code from Chapter 31 because I got an error message, which seems to be a sign that my alloted memory does not suffices. 
+Other chapters code is the same as in the book. They still mostly Python 2. They all run fine except for Chapter 31. Working with it I got error messages, which seems to be a sign that there is a version conflict. If you want to see what happened in detail you can check it out here: https://bit.ly/35TVNF8
 
-On request I provided my work with a PySpark Classification Pipeline: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3156752002222564/3958486364206411/6520470320784699/latest.html
+On request I provided my work with a PySpark Classification Pipeline: https://bit.ly/35TAmEv
