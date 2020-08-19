@@ -5,7 +5,7 @@ Here is my practice for the book. Authors provided PySpark and Scala notebooks i
 
 [https://github.com/databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
 
-Some of notebooks missed lines which are provided in STDG, so I've added them. In a few places in the book and in the repository we can see code for Python 2 while I use Python 3. I changed everything to Python 3. In some places code does not work anymore, may be depreciated after updates. Although it looks like it was copied from corresponding Scala scripts. I tried to fix it as much as I can. Plus in my noteboooks with comments I introduced code lines when I wanted to learn more about examples. 
+A few of the notebooks missed lines which are provided in STDG, so I've added them. In several places in the book and in the repository we can see code for Python 2 while I use Python 3. I changed everything to Python 3. There were places where code does not work anymore, may be depreciated after updates. Although it looks like it was copied from corresponding Scala scripts and not adapted to PySpark. I tried to fix it as much as I can. In my noteboooks I added comments if I introduced code lines, and sometimes I added my notes about the code as well.
 
 Datasets which were used in the book are mounted to the Databricks File System:
 https://docs.databricks.com/getting-started/databricks-datasets.html
